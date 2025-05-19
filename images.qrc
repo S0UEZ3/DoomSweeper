@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/disarmed.png</file>
+        <file>images/question.png</file>
+        <file>images/disarmed_red.png</file>
+        <file>images/sad_32.png</file>
+        <file>images/fear_32.png</file>
+        <file>images/happy_32.png</file>
+        <file>images/normal_32.png</file>
+        <file>images/small_blue_caco.png</file>
+        <file>images/small_caco.png</file>
+        <file>images/doomsweeper.png</file>
+    </qresource>
+</RCC>
